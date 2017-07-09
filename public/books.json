@@ -1,0 +1,731 @@
+[{
+  "kind": "books#volume",
+  "id": "0dbV2lBlLmgC",
+  "etag": "QokqtrqlEhk",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/0dbV2lBlLmgC",
+  "volumeInfo": {
+    "title": "Steven Spielberg's America",
+    "authors": [
+      "Frederick Wasser"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2013-05-07",
+    "description": "Steven Spielberg is known as the most powerful man in New Hollywood and a pioneer of the contemporary blockbuster, America’s most successful export. His career began a new chapter in mass culture. At the same time, American post war liberalism was breaking down. This fascinating new book explains the complex relationship between film and politics through the prism of an iconic filmmaker. Spielberg’s early films were a triumphant emergence of the Sunbelt aesthetic that valued visceral kicks and basic emotions over the ambiguities of history. Such blockbusters have inspired much debate about their negative effect on politics and have been charged as being an expression of the corporatization of life. Here Frederick Wasser argues that the older Spielberg has not fully gone this way, suggesting that the filmmaker recycles the populist vision of older Hollywood because he sincerely believes in both big time moviemaking and liberal democracy. Nonetheless, his stories are burdened by his generation’s hostility to public life, and the book shows how he uses filmmaking tricks to keep his audience with him and to smooth over the ideological contradictions. His audiences have become more global, as his films engage history. This fresh and provocative take on Spielberg in the context of globalization, rampant market capitalism and the hardening socio-political landscape of the United States will be fascinating reading for students of film and for anyone interested in contemporary America and its culture.",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9780745658278"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "074565827X"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+      "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=0dbV2lBlLmgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=0dbV2lBlLmgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0dbV2lBlLmgC&pg=PA1905&dq=title:steven&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0dbV2lBlLmgC&dq=title:steven&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Steven_Spielberg_s_America.html?hl=&id=0dbV2lBlLmgC"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Steven_Spielberg_s_America-sample-epub.acsm?id=0dbV2lBlLmgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Steven_Spielberg_s_America-sample-pdf.acsm?id=0dbV2lBlLmgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0dbV2lBlLmgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "The reader should know, however, that the inspiration for the book&#39;s \u003cb\u003etitle\u003c/b\u003e, \u003cb\u003eSteven\u003c/b\u003e \u003cbr\u003e\nSpielberg&#39;s America, is America more than it is Steven Spielberg. American \u003cbr\u003e\nculture is diffuse and impossible to know, while the career of one man is unified \u003cbr\u003e\nand&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "vQaoAgAAQBAJ",
+  "etag": "6IWAsubUzLQ",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/vQaoAgAAQBAJ",
+  "volumeInfo": {
+    "title": "Oracle PL/SQL Programming",
+    "subtitle": "Covers Versions Through Oracle Database 12c",
+    "authors": [
+      "Steven Feuerstein",
+      "Bill Pribyl"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2014-01-23",
+    "description": "Considered the best Oracle PL/SQL programming guide by the Oracle community, this definitive guide is precisely what you need to make the most of Oracle’s powerful procedural language. The sixth edition describes the features and capabilities of PL/SQL up through Oracle Database 12c Release 1. Hundreds of thousands of PL/SQL developers have benefited from this book over the last twenty years; this edition continues that tradition. With extensive code examples and a lively sense of humor, this book explains language fundamentals, explores advanced coding techniques, and offers best practices to help you solve real-world problems. Get PL/SQL programs up and running quickly, with clear instructions for executing, tracing, testing, debugging, and managing code Understand new 12.1 features, including the ACCESSIBLE_BY clause, WITH FUNCTION and UDF pragma, BEQUEATH CURRENT_USER for views, and new conditional compilation directives Take advantage of extensive code samples, from easy-to-follow examples to reusable packaged utilities Optimize PL/SQL performance with features like the function result cache and Oracle utilities such as PL/Scope and the PL/SQL hierarchical profiler Build modular, easy-to-maintain PL/SQL applications using packages, procedures, functions, and triggers",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9781449324414"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "144932441X"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 1392,
+    "printType": "BOOK",
+    "categories": [
+      "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.6.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=vQaoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=vQaoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vQaoAgAAQBAJ&pg=PT752&dq=title:steven&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vQaoAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-vQaoAgAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 119.0,
+      "currencyCode": "ILS"
+    },
+    "retailPrice": {
+      "amount": 119.0,
+      "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vQaoAgAAQBAJ&rdid=book-vQaoAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [{
+      "finskyOfferType": 1,
+      "listPrice": {
+        "amountInMicros": 1.19E8,
+        "currencyCode": "ILS"
+      },
+      "retailPrice": {
+        "amountInMicros": 1.19E8,
+        "currencyCode": "ILS"
+      }
+    }]
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vQaoAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "Covers Versions Through Oracle Database 12c Steven Feuerstein, Bill Pribyl ... &lt;\u003cbr\u003e\n/title&gt;&#39;)); END; The output from this code example is: &lt;\u003cb\u003etitle\u003c/b\u003e&gt;\u003cb\u003eSteven\u003c/b\u003e Feuerstein&lt;/\u003cbr\u003e\ntitle&gt; For more information on the use of the UriType family, see Chapter 20,&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "cbbJgbdwUFkC",
+  "etag": "rD0t5Yimwcs",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/cbbJgbdwUFkC",
+  "volumeInfo": {
+    "title": "Steven Spielberg",
+    "subtitle": "A Biography (Third Edition)",
+    "authors": [
+      "Joseph McBride"
+    ],
+    "publisher": "Faber & Faber",
+    "publishedDate": "2012-09-01",
+    "description": "Steven Spielberg is responsible for some of the most successful films of all time: Jaws, Close Encounters of the Third Kind, E.T. and the 'Indiana Jones' series. Yet for many years most critics condescendingly regarded Spielberg as a child-man incapable of dealing maturely with the complexities of life. The deeper levels of meaning in his films were largely ignored. This changed with Schindler's List, his masterpiece about a gentile businessman who saves eleven hundred Jews from the Holocaust. For Spielberg, the film was the culmination of a long struggle with his Jewish identity - an identity of which he had long been ashamed, but now triumphantly embraced. Until the first edition of Steven Spielberg: A Biography was published in 1997, much about Spielberg's personality and the forces that shaped it had remained enigmatic, in large part because of his tendency to obscure and mythologize his own past. In his astute and perceptive biography, Joseph McBride reconciled Spielberg's seeming contradictions and produced a coherent portrait of the man who found a way to transmute the anxieties of his own childhood into some of the most emotionally powerful and viscerally exciting films ever made. In the second edition, McBride added four chapters to Spielberg's life story, chronicling his extraordinarily active and creative period from 1997 to 2010, a period in which he balanced his executive duties as one of the partners in the film studio DreamWorks SKG with a remarkable string of films as a director: Amistad, Saving Private Ryan, A. I. Artificial Intelligence, Minority Report, The Terminal and Munich--films which expanded his range both stylistically and in terms of adventurous, often controversial, subject matter. This third edition brings Spielberg's career up-to-date with material on The Adventures of Tintin and War Horse. The original edition was praised by the New York Times Book Review as 'an exemplary portrait' written with 'impressive detail and sensitivity'; Time called it 'easily the finest and fairest of the unauthorized biographies of the director.' Of the second edition, Nigel Morris - author of The Cinema of Steven Spielberg: Empire of Light - said: 'With this tour de force, McBride remains the godfather of Spielberg studies.'",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9780571280551"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "0571280552"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 654,
+    "printType": "BOOK",
+    "categories": [
+      "Performing Arts"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=cbbJgbdwUFkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=cbbJgbdwUFkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cbbJgbdwUFkC&printsec=frontcover&dq=title:steven&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=cbbJgbdwUFkC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-cbbJgbdwUFkC"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 83.0,
+      "currencyCode": "ILS"
+    },
+    "retailPrice": {
+      "amount": 83.0,
+      "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=cbbJgbdwUFkC&rdid=book-cbbJgbdwUFkC&rdot=1&source=gbs_api",
+    "offers": [{
+      "finskyOfferType": 1,
+      "listPrice": {
+        "amountInMicros": 8.3E7,
+        "currencyCode": "ILS"
+      },
+      "retailPrice": {
+        "amountInMicros": 8.3E7,
+        "currencyCode": "ILS"
+      }
+    }]
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Steven_Spielberg-sample-epub.acsm?id=cbbJgbdwUFkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Steven_Spielberg-sample-pdf.acsm?id=cbbJgbdwUFkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cbbJgbdwUFkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "Steven Spielberg is responsible for some of the most successful films of all time: Jaws, Close Encounters of the Third Kind, E.T. and the &#39;Indiana Jones&#39; series."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "zp4KMKwnYVoC",
+  "etag": "mGyPEVTOXbY",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/zp4KMKwnYVoC",
+  "volumeInfo": {
+    "title": "The Filmmaker's Handbook",
+    "subtitle": "A Comprehensive Guide for the Digital Age: 2013 Edition",
+    "authors": [
+      "Steven Ascher",
+      "Edward Pincus"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2012-11-27",
+    "description": "2008 Edition The authoritative guide to funding, preparing, shooting, lighting, editing, finishing and distributing your film or video Widely acknowledged as the \"bible\" of film and video production and used in courses around the world, this indispensable guide to making movies is now updated with the latest advances in high- definition formats. For students and teachers, the professional and the novice filmmaker, this clear and comprehensive handbook remains the reliable reference to all aspects of moviemaking. Techniques for making narrative, documentary, corporate, experimental and feature films. Working with high-definition and standard-definition digital video formats, including DV, HD, and HDV. Extensive coverage of video editing with the latest nonlinear editing systems. Thorough grounding in lenses, lighting, sound recording, and sound editing. The business aspects of financing and producing movies Written by filmmakers for filmmakers, this book will give you the skills you need to take your dreams from script to screen.",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9781101613801"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "1101613807"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 832,
+    "printType": "BOOK",
+    "categories": [
+      "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.8.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=zp4KMKwnYVoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=zp4KMKwnYVoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zp4KMKwnYVoC&pg=PT373&dq=title:steven&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zp4KMKwnYVoC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-zp4KMKwnYVoC"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 79.0,
+      "currencyCode": "ILS"
+    },
+    "retailPrice": {
+      "amount": 79.0,
+      "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zp4KMKwnYVoC&rdid=book-zp4KMKwnYVoC&rdot=1&source=gbs_api",
+    "offers": [{
+      "finskyOfferType": 1,
+      "listPrice": {
+        "amountInMicros": 7.9E7,
+        "currencyCode": "ILS"
+      },
+      "retailPrice": {
+        "amountInMicros": 7.9E7,
+        "currencyCode": "ILS"
+      }
+    }]
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Filmmaker_s_Handbook-sample-epub.acsm?id=zp4KMKwnYVoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zp4KMKwnYVoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "A Comprehensive Guide for the Digital Age: 2013 Edition \u003cb\u003eSteven\u003c/b\u003e Ascher, Edward \u003cbr\u003e\nPincus. lighting and ... 97. \u003cb\u003etitle\u003c/b\u003e areas when working in 16:9; the inner boxes show \u003cbr\u003e\nthe same when doing a 4:3 center cut crop for SD television. The safe areas&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "y7UWPZNqmXYC",
+  "etag": "hPsJsmiH+8w",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/y7UWPZNqmXYC",
+  "volumeInfo": {
+    "title": "Guide to the Euphonium Repertoire",
+    "subtitle": "The Euphonium Source Book",
+    "authors": [
+      "R. Winston Morris",
+      "Lloyd E. Bone, Jr.",
+      "Eric Paull"
+    ],
+    "publisher": "Indiana University Press",
+    "publishedDate": "2007-03-01",
+    "description": "Guide to the Euphonium Repertoire is the most definitive publication on the status of the euphonium in the history of this often misunderstood and frequently under-appreciated instrument. This volume documents the rich history, the wealth of repertoire, and the incredible discography of the euphonium. Music educators, composers/arrangers, instrument historians, performers on other instruments, and students of the euphonium (baritone horn, tenor tuba, etc.) will find the exhaustive research evident in this volume's pages to be compelling and comprehensive. Contributors are Lloyd Bone, Brian L. Bowman, Neal Corwell, Adam Frey, Marc Dickman, Bryce Edwards, Seth D. Fletcher, Carroll Gotcher, Atticus Hensley, Lisa M. Hocking, Sharon Huff, Kenneth R. Kroesche, R. Winston Morris, John Mueller, Michael B. O'Connor, Eric Paull, Joseph Skillen, Kelly Thomas, Demondrae Thurman, Matthew J. Tropman, and Mark J. Walker.",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9780253112248"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "0253112249"
+    }],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 608,
+    "printType": "BOOK",
+    "categories": [
+      "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=y7UWPZNqmXYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=y7UWPZNqmXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=y7UWPZNqmXYC&pg=PA276&dq=title:steven&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=y7UWPZNqmXYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-y7UWPZNqmXYC"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 184.0,
+      "currencyCode": "ILS"
+    },
+    "retailPrice": {
+      "amount": 184.0,
+      "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=y7UWPZNqmXYC&rdid=book-y7UWPZNqmXYC&rdot=1&source=gbs_api",
+    "offers": [{
+      "finskyOfferType": 1,
+      "listPrice": {
+        "amountInMicros": 1.84E8,
+        "currencyCode": "ILS"
+      },
+      "retailPrice": {
+        "amountInMicros": 1.84E8,
+        "currencyCode": "ILS"
+      }
+    }]
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Guide_to_the_Euphonium_Repertoire-sample-pdf.acsm?id=y7UWPZNqmXYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y7UWPZNqmXYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "See Droste, Paul Albertasaurus Tuba Quartet Title: Albertasaurus Personnel: \u003cbr\u003e\nJohn McPherson, David Reid, ... Records, 2001 CD: ARCD 19115 Anderson, Eric \u003cbr\u003e\nAlbum \u003cb\u003eTitle\u003c/b\u003e: \u003cb\u003eSteven\u003c/b\u003e Seward, “The Virtuoso Tuba” Personnel: Steven Seward, \u003cbr\u003e\ntuba;&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "d__cCwAAQBAJ",
+  "etag": "542RYscE7Hs",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/d__cCwAAQBAJ",
+  "volumeInfo": {
+    "title": "Outlandish Knight",
+    "subtitle": "The Byzantine Life of Steven Runciman",
+    "authors": [
+      "Minoo Dinshaw"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2016-09-29",
+    "description": "ECONOMIST AND SPECTATOR BOOKS OF THE YEAR 2016 'An extraordinary book ... exceptionally fascinating, always readable and penetratingly intelligent' David Abulafia 'As rich, funny and teemingly peopled as Anthony Powell's A Dance to the Music of Time ... Dinshaw writes with wit and elegance, and the most elegiac passages of Outlandish Knight evoke a lost society London and way of life' Ben Judah, Financial Times 'This dazzling young writer is a mine of fascinating, memorable and totally useless information... I have been riveted by this book from start to finish, and leave the reader with one word of advice. Watch Minoo Dinshaw. He will go far' John Julius Norwich, Sunday Telegraph The biography of one of the greatest British historians - but also of a uniquely strange and various man In his enormously long life, Steven Runciman managed not just to be a great historian of the Crusades and Byzantium, but Grand Orator of the Orthodox Church, a member of the Order of Whirling Dervishes, Greek Astronomer Royal and Laird of Eigg. His friendships, curiosities and intrigues entangled him in a huge array of different artistic movements, civil wars, Cold War betrayals and, above all, the rediscovery of the history of the Eastern Mediterranean. He was as happy living in a remote part of the Inner Hebrides as in the heart of Istanbul. He was obsessed with historical truth, but also with tarot, second sight, ghosts and the uncanny. Outlandish Knight is a dazzling debut by a writer who has prodigious gifts, but who also has had the ability to spot one of the great biographical subjects. This is an extremely funny book about a man who attracted the strangest experiences, but also a very serious one. It is about the rigours of a life spent in the distant past, but also about the turbulent world of the twentieth century, where so much that Runciman studied and cherished would be destroyed.",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9780141979489"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "0141979488"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 784,
+    "printType": "BOOK",
+    "categories": [
+      "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=d__cCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=d__cCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=d__cCwAAQBAJ&pg=PT490&dq=title:steven&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=d__cCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-d__cCwAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 52.0,
+      "currencyCode": "ILS"
+    },
+    "retailPrice": {
+      "amount": 52.0,
+      "currencyCode": "ILS"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=d__cCwAAQBAJ&rdid=book-d__cCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [{
+      "finskyOfferType": 1,
+      "listPrice": {
+        "amountInMicros": 5.2E7,
+        "currencyCode": "ILS"
+      },
+      "retailPrice": {
+        "amountInMicros": 5.2E7,
+        "currencyCode": "ILS"
+      }
+    }]
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Outlandish_Knight-sample-epub.acsm?id=d__cCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=d__cCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "done her stuff, Steven chanced to encounter her mother on his way out of the \u003cbr\u003e\nBallroom at Buckingham Palace. In time the ... Whatever dowdiness he professed \u003cbr\u003e\nto feel about his new \u003cb\u003etitle\u003c/b\u003e, \u003cb\u003eSteven\u003c/b\u003e soon felt its tangible advantages. He set out for\u003cbr\u003e\n&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "SvDAAwAAQBAJ",
+  "etag": "0kIMibqX4K4",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/SvDAAwAAQBAJ",
+  "volumeInfo": {
+    "title": "All Or Nothing",
+    "authors": [
+      "James Dixon",
+      "Chris Gilder"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "1983-03-22",
+    "industryIdentifiers": [{
+      "type": "ISBN_13",
+      "identifier": "9781471717178"
+    }, {
+      "type": "ISBN_10",
+      "identifier": "1471717178"
+    }],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=SvDAAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=SvDAAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SvDAAwAAQBAJ&pg=PT56&dq=title:steven&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SvDAAwAAQBAJ&dq=title:steven&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/All_Or_Nothing.html?hl=&id=SvDAAwAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=SvDAAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "THE CORINO/GAUNTLEY DYNAMIC Steve Corino: Steven kept the business \u003cbr\u003e\nside of 1PW to himself and never at any ... SWITCHING THE 1PW \u003cb\u003eTITLE Steve\u003c/b\u003e \u003cbr\u003e\nCorino: The decision to switch the 1PW World title from Abyss to me was made by\u003cbr\u003e\n&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "J1evY4wjjy0C",
+  "etag": "JL0FBFzlMBg",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/J1evY4wjjy0C",
+  "volumeInfo": {
+    "title": "The Collected Poems of Frank O'Hara",
+    "authors": [
+      "Frank O'Hara"
+    ],
+    "publisher": "Univ of California Press",
+    "publishedDate": "1995-01-01",
+    "description": "Available for the first time in paperback, The Collected Poems of Frank O'Hara reflects the poet's growth as an artist from the earliest dazzling, experimental verses that he began writing in the late 1940s to the years before his accidental death at forty, when his poems became increasingly individual and reflective.",
+    "industryIdentifiers": [{
+      "type": "ISBN_10",
+      "identifier": "0520201663"
+    }, {
+      "type": "ISBN_13",
+      "identifier": "9780520201668"
+    }],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 586,
+    "printType": "BOOK",
+    "categories": [
+      "Poetry"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 5,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=J1evY4wjjy0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=J1evY4wjjy0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=J1evY4wjjy0C&pg=PA526&dq=title:steven&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=J1evY4wjjy0C&dq=title:steven&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Collected_Poems_of_Frank_O_Hara.html?hl=&id=J1evY4wjjy0C"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/The_Collected_Poems_of_Frank_O_Hara-sample-epub.acsm?id=J1evY4wjjy0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=J1evY4wjjy0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "(Easter, though it was the title, had not been mentioned before in the poem and \u003cbr\u003e\napparently had nothing to do with it.) What I saw in ... STEVEN Dated New York, \u003cbr\u003e\nAugust 1952, in MS x279, which has the earlier \u003cb\u003etitle\u003c/b\u003e: &quot;\u003cb\u003eSteven\u003c/b\u003e Rivers.&quot; POEM (The\u003cbr\u003e\n&nbsp;..."
+  }
+}, {
+  "kind": "books#volume",
+  "id": "mfl_MLihLEoC",
+  "etag": "v1Jd2ducAhc",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/mfl_MLihLEoC",
+  "volumeInfo": {
+    "title": "Stevens' Handbook of Experimental Psychology",
+    "authors": [
+      "Steven Yantis, PhD"
+    ],
+    "publisher": "John Wiley and Sons",
+    "publishedDate": "2004-02-05",
+    "description": "Now available in paperback. This revised and updated edition of the definitive resource for experimental psychology offers comprehensive coverage of the latest findings in the field, as well as the most recent contributions in methodology and the explosion of research in neuroscience. Volume One: Sensation and Perception focuses on sensory experience and complex learned perceptions through modalities such as vision, touch, smell, and hearing.",
+    "industryIdentifiers": [{
+      "type": "ISBN_10",
+      "identifier": "0471650145"
+    }, {
+      "type": "ISBN_13",
+      "identifier": "9780471650140"
+    }],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 816,
+    "printType": "BOOK",
+    "categories": [
+      "Psychology"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=mfl_MLihLEoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=mfl_MLihLEoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mfl_MLihLEoC&printsec=frontcover&dq=title:steven&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=mfl_MLihLEoC&dq=title:steven&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Stevens_Handbook_of_Experimental_Psychol.html?hl=&id=mfl_MLihLEoC"
+  },
+  "saleInfo": {
+    "country": "IL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "IL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mfl_MLihLEoC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  },
+  "searchInfo": {
+    "textSnippet": "Now available in paperback."
+  }
+}]

@@ -1,0 +1,52 @@
+.container-fluid {
+    padding-top: 20px;
+}
+
+.book {
+    text-align: center;
+    background-color: #f8f8f8;
+    box-shadow: 2px 2px 2px #e7e7e7;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+.thumbnail {
+    max-width: 100%;
+    margin: 15px 0;
+    padding: 5px;
+    display: inline-block;
+}
+
+.delete-icon {
+    font-size: 20px;
+    position: absolute;
+    right: 45px;
+    top: 35px;
+    color: red;
+}
+
+.edit-icon {
+    font-size: 20px;
+    position: absolute;
+    left: 45px;
+    top: 35px;
+}
+
+.control-label {
+    text-transform: capitalize
+}
+
+#authorSelect,
+#titleSearch,
+#booksPerRow label {
+    margin: 0 10px;
+}
+
+#booksPerRow input {
+    width: 100px;
+}
